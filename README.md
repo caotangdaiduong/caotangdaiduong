@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<h2 align="center">Overview</h2>
 <h1 align="center">Hi 👋, I'm The Pham (caotangdaiduong)</h1>
 <h3 align="center">I'm fresher Web Full Stack Developer. I passionate about technology, always want to explore new technologies.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xdorro" alt="xdorro" />
