@@ -3,7 +3,8 @@
 <h3 align="center">I'm fresher Web Full Stack Developer. I passionate about technology, always want to explore new technologies.</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=xdorro" alt="xdorro" />
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caotangdaiduong&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caotangdaiduong&theme=monokai)
 
 
 <h2 align="left">Languages and Tools:</h2>
